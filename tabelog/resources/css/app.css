@@ -1,0 +1,16 @@
+@import 'bootstrap';
+
+
+/* .clickDanger:hover{
+    color: red !important;
+    
+} */
+
+.favorited {
+    color: red; /* or fill: red; if using SVG */
+    /* Adjust other styles as needed */
+}
+.cus_img{
+    width: 10rem;
+    height: 10rem;
+}
